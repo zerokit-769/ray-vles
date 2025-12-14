@@ -76,7 +76,7 @@ const server = http.createServer((req, res) => {
                         Get My VLESS Config
                     </button>
                     <p class="text-md text-gray-700 mt-6">
-                        social media info: <a href="Telegram click" class="text-blue-600 hover:underline" target="_blank">https://t.me/Bleszh</a> 
+                        social media info: <a href="https://t.me/Bleszh" class="text-blue-600 hover:underline" target="_blank">https://t.me/Bleszh</a> 
                     </p>
                 </div>
 
